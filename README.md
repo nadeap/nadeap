@@ -1,4 +1,4 @@
-### Hi guys 👋 I'm wertax0
+### Hi guys 👋 I'm Nadea Putri
 
 - 🌱 I’m currently learning Data Science
 - 👀 I’m interested in Data Science, Data Analyst, Machine Learning, Deep Learning and Artificial Intelligence
