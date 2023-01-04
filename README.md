@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi guys 👋 I'm Nadea Putri<br>🌱 I’m currently learning Data Science<br>👀 I’m interested in Data Science, Data Analyst, Machine Learning, Deep Learning and Artificial Intelligence<br>
+Hi guys 👋 I'm Nadea Putri<br>👀 I’m interested in Data Science, Data Analyst, Machine Learning, Deep Learning and Artificial Intelligence<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nadea.pnf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadeaputrinf) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wertax.0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wertax0) 
